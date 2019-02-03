@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Johnny Drukten
 Feb 3, 2019
 
